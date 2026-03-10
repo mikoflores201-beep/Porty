@@ -1,0 +1,81 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+body{
+  font-family: Arial,sans-serif;
+  background-color: darkgray;
+}
+.info{
+  background: url("images (8).jpg") center/cover no-repeat;
+    height: 180px;
+    position: relative;
+}
+.pin{
+  background: rgba(0,0,0,0.5);
+    height: 100%;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 10px black;
+}
+.inch{
+  background: white;
+    width: 80%;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px black;
+}
+.one{
+  width:80%;
+  background: whitesmoke;
+  border-radius: 8px;
+  margin: 30px auto;
+  padding: 20px;
+  box-shadow: 5px 5px 10px black;
+  text-align:center;
+}
+.nien{
+  background: white;
+    width: 80%;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px black;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    box-shadow: 5px 5px 10px black;
+}
+th, td {
+    border: 2px solid black;
+    padding: 8px;
+    background-color: dimgray;
+    color: whitesmoke;
+}
+.man{
+  background: white;
+    width: 80%;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px black;
+}
+.home{
+    background-color: #0d2b45;
+    text-align: center;
+    padding: 10px;
+}
+
+.home a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    font-weight: bold;
+}
