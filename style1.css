@@ -6,6 +6,7 @@
 body{
   font-family: Arial,sans-serif;
   background-color: darkgray;
+  background-image: url(Pla.jpeg);
 }
 .info{
   background: url("Lu.jpg") center/cover no-repeat;
@@ -15,7 +16,7 @@ body{
 .pin{
   background: rgba(0,0,0,0.5);
     height: 100%;
-    color: black;
+    color: whitesmoke;
     display: flex;
     flex-direction: column;
     justify-content: center;
